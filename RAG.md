@@ -1,3 +1,5 @@
+#usecase 
+
 Retrieval Augmented Generation (RAG) is an advanced approach in natural language processing (NLP) that combines the capabilities of retrieval-based systems and generative models. It is designed to enhance the quality, relevance, and accuracy of generated text by leveraging a large corpus of documents or knowledge base. Here's a deeper dive into the concept, components, and applications of RAG:
 
 ### **1. Core Concept of RAG**

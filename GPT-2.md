@@ -1,0 +1,8 @@
+#highlevel 
+#model 
+
+Generative Pre-trained Transformer 2 (GPT-2) is a large language model by [[OpenAI]] and the second in their foundational series of GPT models. GPT-2 was pre-trained on a dataset of 8 million web pages.[2] It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019.[3][4][5]
+
+GPT-2 was created as a "direct scale-up" of GPT-1[6] with a ten-fold increase in both its parameter count and the size of its training dataset.[5] It is a general-purpose learner and its ability to perform the various tasks was a consequence of its general ability to accurately predict the next item in a sequence,[2][7] which enabled it to translate texts, answer questions about a topic from a text, summarize passages from a larger text,[7] and generate text output on a level sometimes indistinguishable from that of humans, however it could become repetitive or nonsensical when generating long passages.[8] It was superseded by the GPT-3 and GPT-4 models, which are no longer open source.
+
+GPT-2 has, like its predecessor GPT-1 and its successors GPT-3 and GPT-4, a generative pre-trained transformer architecture, implementing a deep neural network, specifically a transformer model,[6] which uses attention instead of older recurrence- and convolution-based architectures.[9][10] Attention mechanisms allow the model to selectively focus on segments of input text it predicts to be the most relevant.[11][12] This model allows for greatly increased parallelization, and outperforms previous benchmarks for RNN/CNN/LSTM-based models.[6] 

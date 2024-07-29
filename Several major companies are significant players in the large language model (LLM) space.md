@@ -1,3 +1,6 @@
+#highlevel 
+
+
 Below is a list of these companies, the models they have released, and the important contributions they have made to the field:
 
 ### **1. [[OpenAI]]**
@@ -58,25 +61,57 @@ Below is a list of these companies, the models they have released, and the impor
 #### **Contributions:**
 - **Knowledge Integration:** ERNIE integrates external structured knowledge, such as knowledge graphs, into the language model, enhancing its understanding of entities and relationships.
 
-### **7. Huawei**
-#### **Models Released:**
-- **PanGu-α:** A series of large language models developed by Huawei, named after the mythical creator god PanGu in Chinese mythology.
 
-#### **Contributions:**
-- **Chinese Language Processing:** Huawei's PanGu models focus on Chinese language processing, advancing NLP capabilities for Chinese-speaking users and applications.
 
-### **8. Alibaba**
-#### **Models Released:**
-- **AliceMind:** A series of models aimed at advancing language understanding and generation.
-
-#### **Contributions:**
-- **AI for E-commerce:** Alibaba's models often focus on applications in e-commerce, such as product recommendations, customer service, and personalized content generation.
-
-### **9. Tencent**
-#### **Models Released:**
-- **Hunyuan AI:** A large-scale NLP model aimed at various applications, including search, content generation, and conversational AI.
-
-#### **Contributions:**
-- **Integration with Tencent's Ecosystem:** Hunyuan AI and other models are integrated into Tencent's vast ecosystem, including social media, gaming, and financial services, enhancing user interactions and content delivery.
 
 These companies have not only developed cutting-edge models but have also contributed significantly to advancing the field of NLP and LLMs. They have introduced innovations in model architecture, training techniques, and applications across various languages and domains. Their work continues to shape the future of AI and its integration into everyday technologies.
+
+
+https://explodingtopics.com/blog/list-of-llms
+
+| LLM Name      | Developer                           | Release Date       | [[Access]]  | [[Parameters]]        |
+| ------------- | ----------------------------------- | ------------------ | ----------- | --------------------- |
+| GPT-4o        | [[OpenAI]]                          | May 13, 2024       | API         | Unknown               |
+|               |                                     |                    |             |                       |
+|               |                                     |                    |             |                       |
+| Claude 3      | [[Anthropic]]                       | March 14, 2024     | API         | Unknown               |
+|               |                                     |                    |             |                       |
+| Grok-1        | [[xAI]]                             | November 4, 2023   | Open-Source | 314 billion           |
+|               |                                     |                    |             |                       |
+|               |                                     |                    |             |                       |
+|               |                                     |                    |             |                       |
+| Mistral 7B    | [[Mistral AI]]                      | September 27, 2023 | Open-Source | 7.3 billion           |
+|               |                                     |                    |             |                       |
+| PaLM 2        | [[Google]]                          | May 10, 2023       | Open-Source | 340 billion           |
+|               |                                     |                    |             |                       |
+| Falcon 180B   | [[Technology Innovation Institute]] | September 6, 2023  | Open-Source | 180 billion           |
+|               |                                     |                    |             |                       |
+| Gemini 1.5    | [[Google DeepMind]]                 | February 2nd, 2024 | API         | Unknown               |
+|               |                                     |                    |             |                       |
+|               |                                     |                    |             |                       |
+| Llama 3       | [[Meta AI]]                         | April 18, 2024     | Open-Source | 8 billion, 70 billion |
+|               |                                     |                    |             |                       |
+| Mixtral 8x22B | [[Mistral AI]]                      | April 10, 2024     | Open-Source | 141 billion           |
+|               |                                     |                    |             |                       |
+| Gemma         | [[Google DeepMind]]                 | February 21, 2024  | Open-Source | 2 billion, 7 billion  |
+|               |                                     |                    |             |                       |
+|               |                                     |                    |             |                       |
+| Phi-3         | [[Microsoft]]                       | April 23, 2024     | Both        | 3.8 billion           |
+
+
+[[Anthropic]]
+
+xAI
+
+Mistral AI
+
+Google
+
+Google DeepMind
+
+Technology Innovation Institute
+
+Meta AI
+
+Microsoft
+

@@ -1,3 +1,6 @@
+#usecase 
+
+
 Retrieval Augmented Generation ([[RAG]]) is a powerful approach that combines the strengths of information retrieval and generative language models to provide more accurate, relevant, and informed responses. In this setup, a retrieval component first retrieves relevant documents or pieces of information from a large corpus, and then a generative model uses this information to generate responses. This method is particularly useful for handling specific industry-related texts where domain-specific knowledge and precision are crucial. Here’s how RAG can be applied across various industries:
 
 ### **1. Healthcare**

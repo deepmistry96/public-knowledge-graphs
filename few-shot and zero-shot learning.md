@@ -1,3 +1,7 @@
+
+#lowlevel 
+
+
 Few-shot and zero-shot learning are techniques in machine learning (ML) that address the challenge of making accurate predictions or generating responses with limited training data. These methods are particularly relevant in scenarios where collecting a large labeled dataset is difficult or impractical. Here's a breakdown of the differences between few-shot and zero-shot learning:
 
 ### **[[Few-Shot Learning]]**

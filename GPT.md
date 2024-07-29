@@ -1,3 +1,7 @@
+#highlevel 
+#model 
+
+
 GPT, or Generative Pre-trained Transformer, is a type of large language model developed by [[OpenAI]]. GPT models are based on the Transformer architecture and are designed to generate human-like text. These models have garnered significant attention and are widely used in natural language processing (NLP) tasks due to their ability to understand and generate coherent and contextually relevant text. Here's a detailed overview of GPT:
 
 ### **1. Evolution and Versions of GPT**

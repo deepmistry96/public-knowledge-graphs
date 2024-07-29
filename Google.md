@@ -1,3 +1,5 @@
+#highlevel 
+
 #### **Models Released:**
 - **BERT (Bidirectional Encoder Representations from Transformers):** BERT-Base, BERT-Large
 - **T5 (Text-to-Text Transfer Transformer):**
@@ -10,3 +12,9 @@
 - **Unified Framework for NLP:** T5's text-to-text framework simplified the approach to NLP tasks, enabling a unified model to handle various tasks by simply converting them into a text format.
 - **Multilingual Models:** Google's mT5 and other models expanded LLM capabilities to multiple languages, facilitating global applications.
 - **Efficient Large-Scale Models:** The Switch Transformer introduced a way to scale models to extremely large sizes using sparse activation, making it more computationally efficient.
+
+
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Gemma|Google DeepMind|February 21, 2024|Open-Source|2 billion, 7 billion|

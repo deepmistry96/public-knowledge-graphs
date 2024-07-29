@@ -1,3 +1,6 @@
+#highlevel 
+
+
 The concept of "pretrained" in the context of machine learning and natural language processing (NLP) refers to a model that has already been trained on a large dataset before being used for a specific task. Pretraining involves exposing the model to a vast amount of data to learn general patterns, representations, and knowledge that can be useful across a wide range of applications. Here's a detailed explanation:
 
 ### **1. Pretraining Phase**

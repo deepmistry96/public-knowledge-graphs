@@ -1,3 +1,6 @@
+#usecase 
+ 
+ 
  **[[Text Classification]]:** Assigning categories or labels to text. Examples include sentiment analysis (classifying text as positive, negative, or neutral), spam detection, and topic classification.
 
   **[[Tokenization]]:** Breaking down text into smaller units, such as words or phrases. This is a fundamental step in many NLP tasks.

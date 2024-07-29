@@ -1,3 +1,6 @@
+#lowlevel 
+
+
 Attention mechanisms are a fundamental component of Transformer models and, by extension, large language models (LLMs) that are built on this architecture. These mechanisms allow models to focus on different parts of the input data, determining which elements are most relevant for a given task. Here's an in-depth look at attention mechanisms and their role in Transformer models and LLMs:
 
 ### **1. The Concept of Attention**

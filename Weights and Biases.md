@@ -1,3 +1,6 @@
+#lowlevel 
+
+
 [[Weights]] and [[biases]] are neural network [[parameters]] that simplify machine learning data identification.
 
 The weights and biases develop how a neural network propels data flow forward through the network; this is called [forward propagation](https://h2o.ai/wiki/forward-propagation). Once forward propagation is completed, the neural network will then refine connections using the errors that emerged in forward propagation. Then, the flow will reverse to go through layers and identify nodes and connections that require adjusting ; this is referred to as [backward propagation](https://h2o.ai/wiki/backpropagation).

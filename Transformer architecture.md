@@ -1,3 +1,5 @@
+#lowlevel 
+
 The Transformer architecture, introduced in the [["Attention Is All You Need"]] paper, is a [[neural network model]] designed for handling sequential data, particularly in the context of natural language processing ([[NLP]]). It primarily relies on a mechanism called **[[self-attention]]** to process input data. Here are some technical specifics about the Transformer architecture:
 
 ### 1. **[[Self-Attention]] Mechanism**

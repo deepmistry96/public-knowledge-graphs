@@ -1,3 +1,6 @@
+#lowlevel 
+
+
 Recurrent Neural Networks (RNNs) are a type of neural network architecture designed for processing sequential data. Unlike traditional neural networks, RNNs have connections that form directed cycles, allowing them to maintain a "memory" of previous inputs. This makes them particularly well-suited for tasks where the order of the data matters, such as time series analysis, language modeling, and speech recognition.
 
 Here's a brief overview of key concepts related to RNNs:

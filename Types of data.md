@@ -1,4 +1,7 @@
 
+#lowlevel 
+
+
 In the context of LLMs sequential data is the most relevant
 
 Sequential data refers to data where the order of the elements matters. In other words, each data point is related to the preceding and following data points, and this sequence provides meaningful information. This ordering can reflect time, steps in a process, positions in a structure, or any other progression where the arrangement is significant.

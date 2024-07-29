@@ -1,3 +1,5 @@
+#highlevel 
+
 When people say that Large Language Models ([[LLMs]]) are incredibly resource-intensive, they refer to the substantial computational, financial, and energy resources required to train, fine-tune, and deploy these models. Here's a breakdown of what makes LLMs resource-intensive:
 
 ### **1. Computational Resources**

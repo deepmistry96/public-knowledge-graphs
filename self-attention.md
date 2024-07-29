@@ -1,3 +1,5 @@
+#lowlevel 
+
 Self-attention is a key mechanism in neural network architectures, particularly in transformers, which has revolutionized the field of natural language processing (NLP). It allows models to weigh the importance of different words in a sequence when encoding a sentence or document, thereby capturing dependencies regardless of the distance between words. Here's a detailed explanation of self-attention:
 
 This mechanism operates in three steps:

@@ -1,3 +1,5 @@
+#lowlevel 
+
 #### **[[Encoder]] Layer Components**
 1. **Multi-Head Self-Attention Mechanism:** This component allows the encoder to focus on different parts of the input sequence by computing multiple attention scores in parallel (multiple heads). Each head captures different aspects of the relationships between words.
 

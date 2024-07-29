@@ -1,3 +1,6 @@
+#highlevel 
+
+
 Mimicking: How LLMs Operate**
 
 [[LLMs]], such as [[GPT]] and [[BERT]], are designed to predict and generate text based on patterns observed in vast amounts of training data. These models "mimic" human language in the following ways:

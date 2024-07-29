@@ -1,3 +1,6 @@
+#highlevel 
+
+
 The concept of "fine-tuning" in the context of machine learning, particularly with large language models (LLMs), refers to the process of taking a pretrained model and further training it on a specific task or dataset. Fine-tuning adapts the general knowledge and representations learned during pretraining to the nuances and requirements of a particular application. Here's a detailed explanation:
 
 ### **1. Pretraining vs. Fine-Tuning**

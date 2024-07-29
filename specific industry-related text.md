@@ -1,3 +1,6 @@
+#usecase 
+
+
 Large language models (LLMs) can be highly effective in handling and acting on industry-specific texts, leveraging their ability to understand, process, and generate domain-specific language. Here are concrete examples across various industries:
 
 ### **1. **Healthcare**

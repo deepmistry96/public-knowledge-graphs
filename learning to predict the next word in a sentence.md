@@ -1,3 +1,6 @@
+#highlevel 
+
+
 When large language models (LLMs) are described as "learning to predict the next word in a sentence," it refers to a common training objective known as **language modeling**. This objective is central to the pretraining phase of many LLMs and involves the model learning the statistical patterns of language. Here's a detailed explanation of this concept:
 
 ### **1. Language Modeling Task**
